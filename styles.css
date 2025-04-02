@@ -14,6 +14,52 @@ font-size: 1rem;
 font-family: 'Poppins';
 }
 
+
+section {
+    padding-bottom: 5rem;
+}
+
+.display-4{
+    text-shadow: -5px 5px var(--cor1);
+}
+
+#egito {
+    position: relative;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    background: var(--cor3);
+    background-size: 180px 180px;  
+}
+
+#egito .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #contato {
     background: #B93DAF;
     background-size: cover;
